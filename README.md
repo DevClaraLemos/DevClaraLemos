@@ -26,7 +26,7 @@
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://github.com/DevClaraLemos/DevClaraLemos/blob/main/Dev.png" min-width="400px" max-width="400px" width="40px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/DevClaraLemos/DevClaraLemos/blob/main/Dev.png" min-width="400px" max-width="400px" width="200px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
