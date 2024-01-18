@@ -1,4 +1,16 @@
-<img align="center" style="margin-bottom:100px" width=25% src="https://github.com/DevClaraLemos/DevClaraLemos/blob/main/Dev.png" />
+  <style>
+    body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <img style="margin-bottom:100px" width="25%" src="https://github.com/DevClaraLemos/DevClaraLemos/blob/main/Dev.png" />
+</body>
 &nbsp;&nbsp;&nbsp;
 
 
