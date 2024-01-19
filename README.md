@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=17% src="https://github.com/DevClaraLemos/DevClaraLemos/blob/main/Dev.png" />
 &nbsp;&nbsp;&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DAA520&size=35&center=true&vCenter=true&width=1000&lines=Hi,+welcome;My+name+is+Clara+Lemos;I'm+19+years+old;I'm+from+Brazil;I+Student+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DAA520&size=35&center=true&vCenter=true&width=1000&lines=Hi,+welcome;My+name+is+Clara+Lemos;I'm+19+years+old;I'm+from+Brazil+:%29)](https://git.io/typing-svg)
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
