@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DAA520&size=35&center=true&vCenter=true&width=1000&lines=Hi,+welcome;My+name+is+Clara+Lemos;I'm+19+years+old;I'm+from+Brazil+:%29)](https://git.io/typing-svg)
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">Em constante busca pelo aprimoramento do conhecimento. <br><br> Acumulei 5 meses de experiência na área e desenvolvi uma paixão genuína pelo trabalho. Atualmente, estou em busca de oportunidades para expandir meus horizontes, buscando crescimento e aprimoramento tanto por meio de estudos quanto pela experiência prática.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=DevClaraLemos&theme=radical&mode=weekly" />
