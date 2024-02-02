@@ -36,7 +36,6 @@
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 
 <!-- <img src="https://github.com/DevClaraLemos/DevClaraLemos/blob/main/planodev%20(2).png" min-width="400px" max-width="400px" width="150px" align="right" alt="Computador iuriCode"> -->
-<img align="right" src="https://open.spotify.com/intl-pt/track/3U5JVgI2x4rDyHGObzJfNf?si=c1dadb50ece548ec" alt="Música que está tocando no Spotify da Clara Lemos no momento" />
 
 #### Studying in this moment:
 
@@ -59,6 +58,8 @@
 
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+
+[![Spotify](https://novatorem-crqxb212s-clara-lemos-projects.vercel.app/api/spotify?v=1)](https://open.spotify.com/user/ClaraLemos)
 
 ## Contacts:
 
