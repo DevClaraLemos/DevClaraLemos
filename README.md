@@ -36,6 +36,7 @@
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 
 <!-- <img src="https://github.com/DevClaraLemos/DevClaraLemos/blob/main/planodev%20(2).png" min-width="400px" max-width="400px" width="150px" align="right" alt="Computador iuriCode"> -->
+<img align="right" src="https://luizfelipe9627-spotify-readme.vercel.app/api?theme=dark&scan=true" alt="Música que está tocando no Spotify do Luiz Felipe no momento" />
 
 #### Studying in this moment:
 
