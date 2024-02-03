@@ -59,7 +59,7 @@
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
-[![Spotify](https://novatorem-clara-lemos-projects.vercel.app/api/spotify?v=1)](https://open.spotify.com/user/ClaraLemos)
+[![Spotify](https://novatorem-crqxb212s-clara-lemos-projects.vercel.app/api/spotify?v=1)](https://open.spotify.com/user/ClaraLemos)
 
 ## Contacts:
 
