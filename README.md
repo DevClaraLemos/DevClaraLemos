@@ -35,7 +35,7 @@
 
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 
-<img src="https://github.com/DevClaraLemos/DevClaraLemos/blob/main/planodev%20(2).png" min-width="400px" max-width="400px" width="150px" align="right" alt="Computador iuriCode"> 
+<img src="https://github.com/DevClaraLemos/DevClaraLemos/blob/main/MUSIC.gif" min-width="400px" max-width="400px" width="150px" align="right" alt="Computador iuriCode"> 
 
 #### Studying in this moment:
 
@@ -61,13 +61,6 @@
 
 
 
-### :coffee: &nbsp; Moment Coffee
-
-<p align="right">
-  <a href="https://open.spotify.com/user/RodriguesDevops">
-    <img src="https://novatorem-9ejr.vercel.app/api/spotify" alt="Spotify">
-  </a>
-</p>
 
 
 
